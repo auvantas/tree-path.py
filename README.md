@@ -18,13 +18,13 @@ tree-path.py is a Python script that recursively prints the directory tree struc
 1. Clone the repository or download the tree-path.py script.
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/auvantas/tree-path.py.git
 ```
 
 2. Navigate to the directory containing `tree-path.py`.
 
 ```bash
-cd yourrepository
+cd tree-path.py
 ```
 
 ## Usage
@@ -72,11 +72,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or feedback, please contact Your Name.
-
-### Notes:
-- Replace yourusername and yourrepository with your actual GitHub username and repository name.
-- Update the contact section with your actual name and email address.
-- If you have a LICENSE file, make sure to include it in your repository and update the link in the README.md accordingly.
-
-This README.md provides a comprehensive overview of the script, including its features, usage instructions, and other relevant information.
+For questions or feedback, please open an issue on the GitHub repository.
